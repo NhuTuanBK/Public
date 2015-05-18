@@ -1,0 +1,4 @@
+FROM_EMAIL=fis.ssd.backup@gmail.com;
+PASS=ssd@1234;
+TO_EMAIL=TuanNN14@fpt.com.vn;
+SUBJECT="Service backup";

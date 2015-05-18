@@ -1,0 +1,7 @@
+SVN_USERNAME=TuanNN14;
+SVN_PASS=Tcb!Ocb14;
+SVN_URL=https://118.70.178.132:442/svn/TCBOCB-DOC/project-doc/FSD/1.%20Phase%201/00.Appendix/;
+SVN_LOCATION=C:\ServiceUpdate\SVN;
+SVN_LOCATION_ZIP=C:\;
+SVN_NAME_ZIP=SVN;
+FIS_SAVE=\\SSD-SAMVQ-PC\Users\Public;
